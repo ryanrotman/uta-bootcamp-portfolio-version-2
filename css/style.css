@@ -106,6 +106,6 @@ h5 {
   box-shadow: 2px 4px 5px 0 whitesmoke, 2px 5px 3px -3px whitesmoke, 2px 5px 10px 0 whitesmoke;
 }
 
-.fa-github, .fa-linkedin {
+.fa-github, .fa-linkedin, .fa-envelope, .fa-mobile-alt, .fa-file-download {
   color: white;
 }
