@@ -82,6 +82,10 @@ footer.page-footer {
   background-color: black;
 }
 
+.btn:hover {
+  background-color: #717786;
+}
+
 body {
   background-color: black;
 }
