@@ -1,7 +1,7 @@
 # Portfolio Webpage
-This is a work in process of rewriting my portfolio webpage:
-- updating the UI
-- using Materialize as the CSS framework
+Welcome to my portfolio webpage. This page was built with HTML and CSS utilizing the Materialize framework.
+
+I am a full-stack developer currently looking for work. Please take a look around my page, connect with me on [LinkedIn](https://www.linkedin.com/in/ryanrotman/), download my [resume](https://ryanrotman.github.io/portfolio/Assets/RyanRotman_Resume.pdf), and contact me at [ryan.rotman@gmail.com](mailto:ryan.rotman@gmail.com). I look forward to connecting with you!
 
 ## GitHub Pages Link
-[https://ryanrotman.github.io/portfolio/](https://ryanrotman.github.io/portfolio/)
+[ryanrotman.github.io/portfolio](https://ryanrotman.github.io/portfolio/)
